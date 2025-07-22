@@ -1,0 +1,276 @@
+{
+  "destinations": [
+    {
+      "id": "paris_france",
+      "name": "Paris",
+      "country": "France",
+      "continent": "Europe",
+      "coordinates": {
+        "latitude": 48.8566,
+        "longitude": 2.3522
+      },
+      "description": "The City of Light, known for its art, fashion, gastronomy, and culture.",
+      "best_time_to_visit": ["April", "May", "June", "September", "October"],
+      "climate": "temperate",
+      "budget_level": ["medium", "high"],
+      "top_attractions": [
+        "Eiffel Tower",
+        "Louvre Museum",
+        "Notre-Dame Cathedral",
+        "Arc de Triomphe",
+        "Sacré-Cœur",
+        "Seine River Cruise",
+        "Montmartre",
+        "Palace of Versailles"
+      ],
+      "local_cuisine": [
+        "Croissants",
+        "Escargot",
+        "Coq au Vin",
+        "French Onion Soup",
+        "Macarons",
+        "Crème Brûlée"
+      ],
+      "transportation": {
+        "airport": "Charles de Gaulle (CDG), Orly (ORY)",
+        "public_transport": "Metro, Bus, RER",
+        "taxi_apps": ["Uber", "G7 Taxi"]
+      },
+      "average_costs": {
+        "budget_hotel": 80,
+        "mid_range_hotel": 150,
+        "luxury_hotel": 300,
+        "meal_budget": 25,
+        "meal_mid_range": 45,
+        "meal_fine_dining": 85,
+        "currency": "EUR"
+      },
+      "language": "French",
+      "time_zone": "CET (UTC+1)",
+      "cultural_tips": [
+        "Greet with 'Bonjour' when entering shops",
+        "Dress elegantly, especially for dining",
+        "Learn basic French phrases",
+        "Tipping is not mandatory but appreciated"
+      ]
+    },
+    {
+      "id": "tokyo_japan",
+      "name": "Tokyo",
+      "country": "Japan",
+      "continent": "Asia",
+      "coordinates": {
+        "latitude": 35.6762,
+        "longitude": 139.6503
+      },
+      "description": "A bustling metropolis blending ultra-modern and traditional culture.",
+      "best_time_to_visit": ["March", "April", "May", "October", "November"],
+      "climate": "temperate",
+      "budget_level": ["medium", "high"],
+      "top_attractions": [
+        "Senso-ji Temple",
+        "Tokyo Skytree",
+        "Meiji Shrine",
+        "Shibuya Crossing",
+        "Tsukiji Outer Market",
+        "Imperial Palace",
+        "Harajuku",
+        "Tokyo Disneyland"
+      ],
+      "local_cuisine": [
+        "Sushi",
+        "Ramen",
+        "Tempura",
+        "Yakitori",
+        "Miso Soup",
+        "Mochi",
+        "Wagyu Beef"
+      ],
+      "transportation": {
+        "airport": "Narita (NRT), Haneda (HND)",
+        "public_transport": "JR Lines, Tokyo Metro, Toei Subway",
+        "taxi_apps": ["JapanTaxi", "Uber"]
+      },
+      "average_costs": {
+        "budget_hotel": 60,
+        "mid_range_hotel": 120,
+        "luxury_hotel": 400,
+        "meal_budget": 15,
+        "meal_mid_range": 30,
+        "meal_fine_dining": 100,
+        "currency": "JPY"
+      },
+      "language": "Japanese",
+      "time_zone": "JST (UTC+9)",
+      "cultural_tips": [
+        "Bow when greeting",
+        "Remove shoes when entering homes",
+        "Don't eat or drink while walking",
+        "Be quiet on public transportation",
+        "Cash is still king in many places"
+      ]
+    },
+    {
+      "id": "new_york_usa",
+      "name": "New York City",
+      "country": "United States",
+      "continent": "North America",
+      "coordinates": {
+        "latitude": 40.7128,
+        "longitude": -74.0060
+      },
+      "description": "The Big Apple, a global hub for finance, arts, fashion, and cuisine.",
+      "best_time_to_visit": ["April", "May", "June", "September", "October", "November"],
+      "climate": "temperate",
+      "budget_level": ["medium", "high"],
+      "top_attractions": [
+        "Statue of Liberty",
+        "Central Park",
+        "Times Square",
+        "Brooklyn Bridge",
+        "Empire State Building",
+        "9/11 Memorial",
+        "High Line",
+        "Metropolitan Museum"
+      ],
+      "local_cuisine": [
+        "New York Pizza",
+        "Bagels",
+        "Cheesecake",
+        "Hot Dogs",
+        "Pastrami Sandwich",
+        "Buffalo Wings"
+      ],
+      "transportation": {
+        "airport": "JFK, LaGuardia (LGA), Newark (EWR)",
+        "public_transport": "Subway, Bus, Taxi",
+        "taxi_apps": ["Uber", "Lyft", "NYC Taxi"]
+      },
+      "average_costs": {
+        "budget_hotel": 150,
+        "mid_range_hotel": 250,
+        "luxury_hotel": 500,
+        "meal_budget": 20,
+        "meal_mid_range": 50,
+        "meal_fine_dining": 120,
+        "currency": "USD"
+      },
+      "language": "English",
+      "time_zone": "EST (UTC-5)",
+      "cultural_tips": [
+        "Walk fast, especially in Manhattan",
+        "Tip 18-20% at restaurants",
+        "Don't block subway doors",
+        "Be direct in communication"
+      ]
+    },
+    {
+      "id": "bali_indonesia",
+      "name": "Bali",
+      "country": "Indonesia",
+      "continent": "Asia",
+      "coordinates": {
+        "latitude": -8.3405,
+        "longitude": 115.0920
+      },
+      "description": "Tropical paradise known for beaches, temples, and rich culture.",
+      "best_time_to_visit": ["April", "May", "June", "July", "August", "September"],
+      "climate": "tropical",
+      "budget_level": ["low", "medium"],
+      "top_attractions": [
+        "Uluwatu Temple",
+        "Tegallalang Rice Terraces",
+        "Mount Batur",
+        "Ubud Monkey Forest",
+        "Kuta Beach",
+        "Tanah Lot Temple",
+        "Sekumpul Waterfall",
+        "Ubud Art Market"
+      ],
+      "local_cuisine": [
+        "Nasi Goreng",
+        "Satay",
+        "Rendang",
+        "Gado-Gado",
+        "Bebek Betutu",
+        "Pisang Goreng"
+      ],
+      "transportation": {
+        "airport": "Ngurah Rai International (DPS)",
+        "public_transport": "Bemo, Bus, Motorbike",
+        "taxi_apps": ["Grab", "Gojek", "BlueBird"]
+      },
+      "average_costs": {
+        "budget_hotel": 25,
+        "mid_range_hotel": 60,
+        "luxury_hotel": 200,
+        "meal_budget": 5,
+        "meal_mid_range": 15,
+        "meal_fine_dining": 40,
+        "currency": "IDR"
+      },
+      "language": "Indonesian, Balinese",
+      "time_zone": "WITA (UTC+8)",
+      "cultural_tips": [
+        "Dress modestly when visiting temples",
+        "Use right hand for giving/receiving",
+        "Don't point with your index finger",
+        "Respect local customs and ceremonies"
+      ]
+    },
+    {
+      "id": "reykjavik_iceland",
+      "name": "Reykjavik",
+      "country": "Iceland",
+      "continent": "Europe",
+      "coordinates": {
+        "latitude": 64.1466,
+        "longitude": -21.9426
+      },
+      "description": "Land of fire and ice with stunning natural phenomena.",
+      "best_time_to_visit": ["June", "July", "August", "September"],
+      "climate": "cold",
+      "budget_level": ["high"],
+      "top_attractions": [
+        "Blue Lagoon",
+        "Golden Circle",
+        "Northern Lights",
+        "Gullfoss Waterfall",
+        "Geysir",
+        "Hallgrimskirkja Church",
+        "Perlan Museum",
+        "Harpa Concert Hall"
+      ],
+      "local_cuisine": [
+        "Fresh Seafood",
+        "Lamb",
+        "Skyr",
+        "Brennivín",
+        "Hákarl",
+        "Rúgbrauð"
+      ],
+      "transportation": {
+        "airport": "Keflavik International (KEF)",
+        "public_transport": "City Bus (Strætó)",
+        "taxi_apps": ["Hreyfill", "BSR"]
+      },
+      "average_costs": {
+        "budget_hotel": 120,
+        "mid_range_hotel": 200,
+        "luxury_hotel": 400,
+        "meal_budget": 25,
+        "meal_mid_range": 50,
+        "meal_fine_dining": 100,
+        "currency": "ISK"
+      },
+      "language": "Icelandic",
+      "time_zone": "GMT (UTC+0)",
+      "cultural_tips": [
+        "Icelanders are very informal",
+        "Remove shoes when entering homes",
+        "Respect nature and wildlife",
+        "Tipping is not expected"
+      ]
+    }
+  ]
+}
